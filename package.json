@@ -40,7 +40,6 @@
   "dependencies": {
     "dijkstrajs": "^1.0.1",
     "pngjs": "^5.0.0",
-    "yargs": "^15.3.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
